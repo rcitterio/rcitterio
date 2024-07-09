@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-[![roadmap.sh](https://roadmap.sh/card/tall/668d64388896c6f50b22ed4e?variant=dark&roadmaps=product-manager)](https://roadmap.sh)
 
+[![roadmap.sh](https://roadmap.sh/card/wide/668d64388896c6f50b22ed4e?variant=dark&roadmaps=product-manager)](https://roadmap.sh)
 <!--
 **rcitterio/rcitterio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
